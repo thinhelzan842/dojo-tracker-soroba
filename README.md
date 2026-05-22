@@ -14,15 +14,14 @@ Our vision is to completely eliminate manual paperwork in local martial arts clu
 - **Tuition Fee System:** Integrated Soroban token functionalities allowing students to pay tuition fees directly to the master's wallet. The contract permanently updates the `total_fees_paid` state on-chain.
 
 ## Deployed Contract Details
-- **Contract ID:** CA2HRGB4VLBCVKGPAPKLHQWXFKV2PVPOQBJ7GL2GBNVOEBNW7PVMR4JR
+- **Contract ID:** CAKU6O2ZGVPP7CYJOEPVOD56YQ2Q3YJPOBRIVDIW5KDCRLDUWTN6QB43
 - **Network:** Stellar Testnet
-- **Contract link**: https://stellar.expert/explorer/testnet/tx/e017a6fdb1a3d7be4b125fc50fc931bf9d64a776450cbc3617d14da64fb016d5
-
+- **Contract link**: https://stellar.expert/explorer/testnet/tx/20099ef8bb0ef9323b9c9f4e037e7923ce0e76f6dd06b3b06955b076a4326afe
+- 
 ### Contract's screenshots
-![screenshot](https://github.com/user-attachments/assets/b7773183-6e69-4d26-94b8-6e4546263ed8](https://github.com/user-attachments/assets/11833bc4-0444-42cf-b77f-7b78c3ec6ac1)
+![screenshot](https://github.com/user-attachments/assets/11833bc4-0444-42cf-b77f-7b78c3ec6ac1)
 
-![screenshot](https://github.com/user-attachments/assets/b4267654-50f5-4807-84ee-c88a158806af](https://github.com/user-attachments/assets/b0001291-38f9-4253-af92-a046ffa769a9)
-
+![screenshot](https://github.com/user-attachments/assets/b0001291-38f9-4253-af92-a046ffa769a9)
 
 # Future scopes
 - Implement a web-based UI (using React.js and Freighter API) for the instructor to easily scan student QR codes for instant attendance logging.
