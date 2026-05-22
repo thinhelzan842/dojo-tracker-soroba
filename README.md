@@ -16,7 +16,8 @@ Contract link: https://stellar.expert/explorer/testnet/tx/e017a6fdb1a3d7be4b125f
 ### Contract's screenshots
 <img width="1863" height="876" alt="image" src="https://github.com/user-attachments/assets/b7773183-6e69-4d26-94b8-6e4546263ed8" />
 
-<img width="1860" height="879" alt="image" src="https://github.com/user-attachments/assets/f5572241-6021-4ec7-b22f-9850634a0a14" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/b4267654-50f5-4807-84ee-c88a158806af" />
+
 
 
 
