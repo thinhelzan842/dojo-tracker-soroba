@@ -14,11 +14,10 @@ Traditional martial arts clubs (dojos) rely on paper notebooks or centralized da
 Contract link: https://stellar.expert/explorer/testnet/tx/e017a6fdb1a3d7be4b125fc50fc931bf9d64a776450cbc3617d14da64fb016d5
 
 ### Contract's screenshots
-*(Replace the text below with your actual screenshots)*
+<img width="1863" height="887" alt="image" src="https://github.com/user-attachments/assets/bb593578-34ba-4f15-9153-8f779f0baa05" />
 
-[DÁN ẢNH CHỤP MÀN HÌNH LÚC DEPLOY THÀNH CÔNG VÀO ĐÂY]
+<img width="1868" height="883" alt="image" src="https://github.com/user-attachments/assets/e4714980-844d-4756-8701-1a56dd836759" />
 
-[DÁN ẢNH CHỤP MÀN HÌNH LÚC GỌI HÀM (INVOKE) THÀNH CÔNG VÀO ĐÂY]
 
 # Future scopes
 - Implement a web-based UI (using React.js and Freighter API) for the instructor to easily scan student QR codes for instant attendance logging.
